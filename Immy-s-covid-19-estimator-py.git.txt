@@ -1,0 +1,10 @@
+const covid19ImpactEstimatorm = (data) {
+   const input = data;
+   return {
+      data: input,
+      impact: {},
+      severeImpact: {}
+
+   };
+
+};
